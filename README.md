@@ -3,8 +3,6 @@
 
 **Deutsch:** Dieses Programm demonstriert, wie externe Prozesse von einer C# Windows Forms-Anwendung aus gestartet werden können. Es kann jede beliebige ausführbare Datei ausführen, zum Beispiel CMD-Befehle wie DIR (unter Verwendung von CMD.EXE /C), Befehlszeilenprogramme wie PING.EXE oder komplette Anwendungen wie NOTEPAD.EXE.
 
-topics: C# Windows-Forms Execute Run Start EXE Executable CMD-Command External-Process Background-Worker Command-Line Redirect-Standard-Output Output-Data-Received Thread Runner Launcher Starter
-
 ## Contributing
 Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
